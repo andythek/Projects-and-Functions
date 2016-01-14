@@ -1,4 +1,4 @@
-<php include('convert.php');?>
+<?php include('convert.php'); //Include Convert function?>
 
 <?php
 
